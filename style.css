@@ -86,7 +86,7 @@ img {
             rgba(8, 15, 11, 0.55),
             rgba(8, 15, 11, 0.75)
         ),
-        url("./hero.png");
+        url("./hero.png")
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ footer p:first-child {
             rgba(10, 18, 13, 0.65),
             rgba(10, 18, 13, 0.8)
         ),
-        url("./hero.png");
+        url("./hero.png")
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
